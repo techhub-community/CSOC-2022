@@ -120,7 +120,7 @@ const TeamInfo = [
       img: manas
     },
     {
-      Name: "Rishabh S  rivastava",
+      Name: "Rishabh Srivastava",
       github: "https://github.com/gitshabh",
       linkedin: "https://www.linkedin.com/in/rishabh-srivastava-88538b20b",
       img: rishabh
