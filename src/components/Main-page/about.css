@@ -158,7 +158,8 @@ h1 {
 
   .logoSection {
     text-align: center;
-    padding: 20vh 0vh 0 0vh;
+    padding: 5vh 0vh 0 0vh;
+    margin: 0;
   }
 }
 

@@ -14,7 +14,7 @@ function TimeLine() {
           <section>
             <i class="icon fas "><GiIndiaGate /></i>
             <div class="details">
-              <span class="title">Start Registrations</span>
+              <span class="title">Registration Starts</span>
               <span>12th August 2022</span>
             </div>
           </section>
@@ -23,7 +23,7 @@ function TimeLine() {
           <section>
             <i class="icon fas"><GiIndianPalace /></i>
             <div class="details">
-              <span class="title">End Registrations</span>
+              <span class="title">Registration Ends</span>
               <span>14th August 2022</span>
             </div>
           </section>
