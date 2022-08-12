@@ -1,15 +1,18 @@
 # How can you contribute
 
-You can contribute by improving website UI or by improving the code architecture. We have developed the website using reactjs framework. You can setup the project locally in following setups.
+You can contribute by improving website UI or by improving the code architecture. We have developed the website using reactjs framework. You can setup the project locally by the following steps.
 
 ## How to setup project locally
 
-Clone the repository by using the following command
+Fork the repository by using the fork button on the repository.
 
-```git clone https://github.com/techhub-community/CSOC-2022.git```
+Then clone the forked repository on your local system using the following command
 
-Run the following command 
 
-```npm i```
+```git clone <https link of the forked repo>```
+
+Run the following command on your terminal
+
+```npm i``` 
 
 ```npm start```
