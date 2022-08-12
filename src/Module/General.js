@@ -29,7 +29,8 @@ const SOCIALS = {
   linkedin: "https://www.linkedin.com/company/techhub-community/",
   twitter: "https://twitter.com/_techhub",
   email: "mailto:info@techhub.org.in",
-  mail: "info@techhub.org.in"
+  mail: "info@techhub.org.in",
+  github: "https://github.com/techhub-community/CSOC-2022"
 };
 
 const MIDDLE_SECTION = {
