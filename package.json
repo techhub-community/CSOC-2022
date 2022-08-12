@@ -86,14 +86,14 @@
     "husky": "^7.0.0"
   },
   "description": "### Thanks [ella](https://github.com/eilla1) for design snippets",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vasu-1/duhacks.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vasu-1/duhacks/issues"
-  }
+   "main": "index.js",
+   "repository": {
+     "type": "git",
+     "url": "git+https://github.com/techhub-community/CSOC-2022.git"
+   },
+   "author": "",
+   "license": "ISC",
+   "bugs": {
+     "url": "https://github.com/techhub-community/CSOC-2022/issues"
+   }
 }
