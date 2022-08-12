@@ -217,6 +217,13 @@ h1 {
   }
 }
 
+@media screen and (max-width: 768px) {
+
+
+  .color_sectiom {
+    padding-bottom: 20px;
+  }
+}
 
 @media (max-width: 450px) {
   .box {
@@ -230,6 +237,7 @@ h1 {
     text-align: center;
     height: 250px;
   }
+
 }
 
 .cyan {

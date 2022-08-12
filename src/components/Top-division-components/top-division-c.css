@@ -144,6 +144,11 @@ button:hover .overlay {
   left: 0;
 }
 
+@media screen and(max-width: 768px) {
+  .btnres {
+    margin-bottom: 20px;
+  }
+}
 
 /* main targer */
 
