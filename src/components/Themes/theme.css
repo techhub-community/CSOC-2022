@@ -147,13 +147,25 @@
 	}
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 668px) {
 	.cards_wrap .card_item {
 		width: 100%;
 	}
 
 	.card_inner {
-		min-height: 600px;
+		min-height: 800px;
+	}
+
+	.wrapper .header {
+		font-size: 14px;
+	}
+}
+
+@media screen and (max-width: 370px) {
+
+
+	.card_inner {
+		min-height: 1100px;
 	}
 
 	.wrapper .header {
@@ -169,7 +181,7 @@
 	}
 
 	.card_inner {
-		min-height: 700px;
+		min-height: 800px;
 	}
 
 	.wrapper .header {
@@ -183,7 +195,7 @@
 	}
 
 	.card_inner {
-		min-height: 930px;
+		min-height: 1000px;
 	}
 
 	.wrapper .header {
@@ -191,13 +203,13 @@
 	}
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 370px) {
 	.cards_wrap .card_item {
 		width: 100%;
 	}
 
 	.card_inner {
-		min-height: 950px;
+		min-height: 1200px;
 	}
 
 	.wrapper .header {
