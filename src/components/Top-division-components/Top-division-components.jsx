@@ -32,7 +32,6 @@ function Myinfo() {
       <p className="shortjoin"> {TOP_SECTION.SHORT_DESCRIPTION}</p>
       <br /><br />
       <Link to="/register"><button className="btnres">Register Here</button></Link>
-      <Link to="/register"><button>Register Here</button></Link>
     </div>
 
 
