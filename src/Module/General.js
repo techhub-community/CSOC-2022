@@ -45,7 +45,7 @@ const TeamInfo = [
   [
     // Array 1
     {
-      Name: "Avikant Srivastava",
+      Name: "Avikant Shrivastava",
       github: "https://github.com/AvikantSrivastava",
       linkedin: "https://www.linkedin.com/in/avikantsrivastava/",
       img: avikant
@@ -155,7 +155,7 @@ const frequentlyAskedQuestions = [
       },
       {
         label: "Who can Participate?",
-        content: "This event is for the teams which are a part of the codeshack mentorship program. Unfortunately, Others can not participate in the hackathon."
+        content: "This event is for the teams which are a part of the codeshack mentorship programs. Unfortunately, Others can not participate in the hackathon."
       },
       {
         label: "What can we create?",

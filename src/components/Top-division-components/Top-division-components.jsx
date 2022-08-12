@@ -1,5 +1,6 @@
 import "./top-division-c.css";
 import MytypedComponent from "../typing-effect/typing.js";
+import { Link } from "react-router-dom";
 
 import { TOP_SECTION } from "../../Module/General";
 
@@ -7,7 +8,7 @@ function Btn(props) {
   return (
     <div
       className="apply-button"
-      data-hackathon-slug="DUHacks"
+      data-hackathon-slug="CSOC-2022"
       data-button-theme="light"
       style={{ height: "44px", width: "312px" }}
     ></div>
@@ -30,7 +31,7 @@ function Myinfo() {
       <br />
       <p className="shortjoin"> {TOP_SECTION.SHORT_DESCRIPTION}</p>
       <br /><br />
-      <a href="#" target="_blank"><button>Register Here</button></a>
+      <Link to="/register"><button>Resgister Here</button></Link>
     </div>
 
 

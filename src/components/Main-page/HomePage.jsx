@@ -10,6 +10,7 @@ import Footer from "../Footer/footer.jsx";
 import { Member } from "../team/team.jsx";
 import ThemeType from "../Themes/theme.jsx";
 import TimeLine from "../Timeline/Timeline.jsx";
+import RegistrationForm from "../Form/RegistrationForm";
 
 import {
   TOP_SECTION,
