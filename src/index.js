@@ -5,6 +5,7 @@ import LOADER from './components/Loading/loading.jsx';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import HomePage from 'components/Main-page/HomePage.jsx';
 import RegistrationForm from 'components/Form/RegistrationForm';
+import SubmissionForm from 'components/Form/SubmissionForm';
 
 
 const rootElement = document.getElementById("body");
@@ -15,7 +16,7 @@ export default function AppRouting() {
     <Router>
       <Routes >
         <Route path="/" element={<><NAV /><HomePage /></>} />
-        <Route path="/register" element={<RegistrationForm />} />
+        <Route path="/submit" element={<SubmissionForm />} />
       </Routes>
     </Router >
   );

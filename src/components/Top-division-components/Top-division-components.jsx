@@ -31,7 +31,7 @@ function Myinfo() {
       <br />
       <p className="shortjoin"> {TOP_SECTION.SHORT_DESCRIPTION}</p>
       <br /><br />
-      <Link to="/register"><button className="btnres">Register Here</button></Link>
+      <Link to="/submit"><button className="btnres">Submit Here</button></Link>
     </div>
 
 
